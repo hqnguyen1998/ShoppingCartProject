@@ -1,0 +1,14 @@
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAILED = 'REGISTER_FAILED';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const SIGN_OUT = 'SIGN_OUT';
+export const SET_TOGGLE = 'SET_TOGGLE';
+
+export const ADD_ITEM_TO_CART = 'ADD_ITEM_TO_CART';
+export const INCREASE_CART_ITEM = 'INCREASE_CART_ITEM';
+export const DECREASE_CART_ITEM = 'DECREASE_CART_ITEM';
+
+export const FETCH_ALL_ITEM = 'FETCH_ALL_ITEM';
